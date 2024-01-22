@@ -11,8 +11,13 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: "文档",
-        items: [{ text: "简单的设计和复杂的设计", link: "/posts/calculator" }],
+        text: "软件设计",
+        items: [
+          {
+            text: "鸡尾酒计算器与元信息",
+            link: "/posts/calculator",
+          },
+        ],
       },
     ],
   },
