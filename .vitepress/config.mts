@@ -17,6 +17,10 @@ export default defineConfig({
             text: "鸡尾酒计算器与元信息",
             link: "/posts/calculator",
           },
+          {
+            text: "策略：长期存续",
+            link: "/posts/long-term-extinction",
+          },
         ],
       },
     ],
