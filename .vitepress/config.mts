@@ -21,6 +21,10 @@ export default defineConfig({
             text: "策略：长期存续",
             link: "/posts/long-term-extinction",
           },
+          {
+            text: "用户生成的鸡尾酒内容",
+            link: "/posts/user-generated",
+          },
         ],
       },
     ],
