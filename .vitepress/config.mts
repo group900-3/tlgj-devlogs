@@ -25,6 +25,10 @@ export default defineConfig({
             text: "用户生成的鸡尾酒内容",
             link: "/posts/user-generated",
           },
+          {
+            text: "酒后驾驶",
+            link: "/posts/drunk-driving",
+          },
         ],
       },
     ],
