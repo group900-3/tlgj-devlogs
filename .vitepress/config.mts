@@ -11,15 +11,11 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: "软件设计",
+        text: "增强",
         items: [
           {
             text: "鸡尾酒计算器与元信息",
             link: "/posts/calculator",
-          },
-          {
-            text: "策略：长期存续",
-            link: "/posts/long-term-extinction",
           },
           {
             text: "用户生成的鸡尾酒内容",
@@ -28,6 +24,19 @@ export default defineConfig({
           {
             text: "酒后驾驶",
             link: "/posts/drunk-driving",
+          },
+        ],
+      },
+      {
+        text: "策略",
+        items: [
+          {
+            text: "策略：长期存续",
+            link: "/posts/long-term-extinction",
+          },
+          {
+            text: "策略：金刚不坏",
+            link: "/posts/bullet-proof",
           },
         ],
       },
